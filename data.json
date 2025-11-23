@@ -1,0 +1,197 @@
+[
+    {
+        "nome" : "Saci-Pererê",
+        "regiao" : "Sudeste",
+        "descricao" : "Um menino negro de uma perna só, que fuma cachimbo e usa um gorro vermelho que lhe concede poderes mágicos, como desaparecer e surgir em redemoinhos de vento. É conhecido por suas travessuras, como trançar a crina dos cavalos, esconder objetos e assustar viajantes."
+    },
+    {
+        "nome": "Curupira",
+        "regiao": "Norte",
+        "descricao": "Protetor da fauna e da flora, o Curupira tem cabelos vermelhos e pés virados para trás para confundir caçadores e lenhadores."
+    },
+    {
+        "nome": "Iara",
+        "regiao": "Norte",
+        "descricao": "Também conhecida como Mãe d'Água, é uma sereia que atrai os homens com seu canto irresistível para o fundo dos rios."
+    },
+    {
+        "nome": "Mula sem cabeça",
+        "regiao": "Sudeste/Centro-Oeste",
+        "descricao": "Uma mulher amaldiçoada por ter um romance com um padre, que se transforma em uma mula com fogo no lugar da cabeça."
+    },
+    {
+        "nome": "Boto cor-de-rosa",
+        "regiao": "Norte",
+        "descricao": "Nos rios da Amazônia, o boto se transforma em um belo rapaz que seduz e engravida moças em festas à beira do rio."
+    },
+    {
+        "nome": "Boitatá",
+        "regiao": "Norte/Nordeste",
+        "descricao": "Representado como uma cobra de fogo, o Boitatá protege os campos e as matas contra aqueles que provocam incêndios."
+    },
+    {
+        "nome": "Negrinho do Pastoreio",
+        "regiao": "Sul",
+        "descricao": "Lenda afro-cristã de um menino escravizado que, após ser maltratado e morto, retorna para ajudar a encontrar objetos perdidos."
+    },
+    {
+        "nome": "Cuca",
+        "regiao": "Todo o Brasil",
+        "descricao": "Uma bruxa com aparência de jacaré que rapta crianças desobedientes. A lenda foi popularizada pela obra de Monteiro Lobato."
+    },
+    {
+        "nome": "Lobisomem",
+        "regiao": "Várias regiões",
+        "descricao": "Um homem que, em noites de lua cheia, se transforma em um lobo feroz, atacando pessoas e animais."
+    },
+    {
+        "nome": "Caipora",
+        "regiao": "Várias regiões",
+        "descricao": "Protetora dos animais e das matas, é retratada como uma pequena índia de cabelos vermelhos montada em um porco-do-mato. Engana caçadores com pistas falsas para proteger a natureza."
+    },
+    {
+        "nome": "Mapinguari",
+        "regiao": "Norte",
+        "descricao": "Criatura gigante e peluda que vive na floresta amazônica. Possui um único olho na testa e uma boca na barriga. É temido por sua força e ferocidade, sendo considerado um protetor da floresta."
+    },
+    {
+        "nome": "Corpo-Seco",
+        "regiao": "Sudeste/Sul",
+        "descricao": "A alma de um homem tão cruel em vida que nem a terra o aceitou após a morte. Seu corpo seco vaga pelas estradas assombrando as pessoas, representando a punição pela maldade extrema."
+    },
+    {
+        "nome": "Lenda da Vitória-Régia",
+        "regiao": "Norte",
+        "descricao": "A história da índia Naiá, apaixonada pela Lua. Ao tentar beijar o reflexo da lua na água, afogou-se e foi transformada pela Lua na flor gigante da Vitória-Régia, a estrela das águas."
+    },
+    {
+        "nome": "Comadre Fulozinha",
+        "regiao": "Nordeste",
+        "descricao": "Uma cabocla de longos cabelos que protege a floresta. Gosta de receber oferendas e prega peças em quem desrespeita a mata, como dar nós nas crinas dos cavalos."
+    },
+    {
+        "nome": "Boiúna",
+        "regiao": "Norte",
+        "descricao": "Uma cobra gigantesca e escura que habita os rios amazônicos. Seus olhos brilham como faróis e ela pode se transformar em embarcações para enganar pescadores ou afundar barcos."
+    },
+    {
+        "nome": "Matinta Perera",
+        "regiao": "Norte",
+        "descricao": "Uma velha feiticeira que se transforma em um pássaro agourento. Ela pousa nos telhados e assobia de forma estridente, parando apenas quando o morador promete tabaco ou cachaça."
+    },
+    {
+        "nome": "Cabeça de Cuia",
+        "regiao": "Nordeste",
+        "descricao": "Lenda do Piauí sobre um jovem amaldiçoado pela mãe a vagar pelo Rio Parnaíba com uma cabeça gigante. Só quebrará a maldição se devorar sete virgens chamadas Maria."
+    },
+    {
+        "nome": "Pisadeira",
+        "regiao": "Sudeste/Nordeste",
+        "descricao": "Uma velha magra e assustadora que pisa no peito das pessoas que dormem de barriga cheia, causando falta de ar e paralisia do sono."
+    },
+    {
+        "nome": "Papa-Figo",
+        "regiao": "Nordeste",
+        "descricao": "Um homem velho e doente, por vezes retratado com orelhas enormes, que rapta crianças para comer seus fígados na crença de que isso curará sua doença ou lepra."
+    },
+    {
+        "nome": "Gralha Azul",
+        "regiao": "Sul",
+        "descricao": "Ave símbolo do Paraná. Diz a lenda que ela recebeu a missão divina de plantar o pinheiro-do-paraná (araucária), enterrando o pinhão para que a floresta cresça."
+    },
+    {
+        "nome": "Romãozinho",
+        "regiao": "Centro-Oeste",
+        "descricao": "Um menino levado e maldoso que, após causar a morte do pai e ser amaldiçoado pela mãe, vaga eternamente fazendo travessuras cruéis e assustando galinhas nos quintais."
+    },
+    {
+        "nome": "Lenda da Mandioca",
+        "regiao": "Norte",
+        "descricao": "A indiazinha Mani morreu precocemente e foi enterrada na oca. De sua cova nasceu uma planta cuja raiz era branca como a pele da menina, que saciou a fome de sua tribo."
+    },
+    {
+        "nome": "Alamoa",
+        "regiao": "Nordeste (Fernando de Noronha)",
+        "descricao": "O espírito de uma mulher loira e nua que atrai homens para a morte. Ao ser abraçada, transforma-se em um esqueleto ou em uma luz ofuscante."
+    },
+    {
+        "nome": "Caboclo d'Água",
+        "regiao": "Sudeste/Nordeste",
+        "descricao": "Ser musculoso e de pele cor de bronze que vive no Rio São Francisco. Ele vira canoas e assusta pescadores, que jogam fumo no rio para acalmá-lo."
+    },
+    {
+        "nome": "Capelobo",
+        "regiao": "Norte/Nordeste",
+        "descricao": "Uma criatura com corpo humano e cabeça de tamanduá (ou anta). Sai à noite para caçar animais recém-nascidos e, segundo a lenda, pode sugar o cérebro de humanos."
+    },
+    {
+        "nome": "Pé-de-Garrafa",
+        "regiao": "Centro-Oeste/Nordeste",
+        "descricao": "Bicho peludo que deixa um rastro redondo, como o fundo de uma garrafa. Ele usa esses rastros enganosos para fazer caçadores se perderem na mata."
+    },
+    {
+        "nome": "Lenda do Guaraná",
+        "regiao": "Norte",
+        "descricao": "Após a morte de um curumim muito amado, seus olhos foram plantados. Deles nasceu o guaraná, fruto que se assemelha a um olho humano."
+    },
+    {
+        "nome": "João-de-Barro",
+        "regiao": "Sul/Sudeste",
+        "descricao": "Um pássaro que, tomado pelo ciúme e acreditando ter sido traído, trancou sua companheira dentro do ninho de barro para sempre."
+    },
+    {
+        "nome": "Quibungo",
+        "regiao": "Nordeste (Bahia)",
+        "descricao": "Monstro do folclore afro-brasileiro, peludo e com uma boca enorme nas costas. Ele persegue crianças desobedientes para engoli-las por essa boca dorsal."
+    },
+    {
+        "nome": "Arranca-Línguas",
+        "regiao": "Centro-Oeste",
+        "descricao": "Uma criatura monstruosa, semelhante a um grande gorila ou cão, que ataca gado e pessoas para arrancar e comer suas línguas."
+    },
+    {
+        "nome": "Besta-Fera",
+        "regiao": "Nordeste",
+        "descricao": "Acredita-se ser o diabo em forma de centauro ou cavalo. Percorre as cidades em disparada nas noites escuras, chicoteando os animais que encontra."
+    },
+    {
+        "nome": "Mãe do Ouro",
+        "regiao": "Sudeste/Centro-Oeste",
+        "descricao": "Bola de fogo que indica onde existem jazidas de ouro. Ela protege o minério de quem deseja explorá-lo com ganância excessiva."
+    },
+    {
+        "nome": "Minhocão",
+        "regiao": "Centro-Oeste",
+        "descricao": "Uma serpente ou minhoca colossal que vive no subsolo e nos rios. Ao se mover, provoca desmoronamentos de barrancos e afunda casas."
+    },
+    {
+        "nome": "Barba Ruiva",
+        "regiao": "Nordeste (Piauí)",
+        "descricao": "Um homem que vive no fundo da Lagoa de Parnaguá. Aparece como um bebê chorando ou como um velho de barba vermelha, tentando abraçar mulheres na beira d'água."
+    },
+    {
+        "nome": "Lenda do Açaí",
+        "regiao": "Norte",
+        "descricao": "A índia Iaçá chorou a morte da filha sacrificada até morrer. Onde suas lágrimas caíram, nasceu uma palmeira com frutos escuros, batizada de Açaí (Iaçá ao contrário)."
+    },
+    {
+        "nome": "Labatut",
+        "regiao": "Nordeste (Ceará)",
+        "descricao": "Um monstro antropófago com um único olho na testa, dentes de elefante e pés redondos, que aterroriza o sertão."
+    },
+    {
+        "nome": "O Bradador",
+        "regiao": "Sul/Sudeste",
+        "descricao": "A alma penada de alguém que não foi aceito nem no céu nem no inferno. Vaga pelos campos nas sextas-feiras soltando gritos horríveis."
+    },
+    {
+        "nome": "Vaqueiro Misterioso",
+        "regiao": "Nordeste",
+        "descricao": "Um vaqueiro desconhecido, mal vestido e montado em um cavalo velho, que aparece em vaquejadas, vence a competição derrubando o boi e desaparece sem deixar rastro."
+    },
+    {
+        "nome": "Onça Maneta",
+        "regiao": "Várias regiões",
+        "descricao": "Uma onça enorme e feroz que perdeu uma das patas em uma luta com caçadores. Desde então, tornou-se vingativa e impossível de ser caçada."
+    }
+]

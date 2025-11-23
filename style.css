@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #8ab4f8;
+    --secondary-color: #e8eaed;
+    --tertiary-color: #9aa0a6;
+    --bg-color: #202124;
+}
+
+body {
+    max-height: 100vh;
+    /* Define a imagem de fundo e o overlay preto com 80% de opacidade */
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/background.jpg') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed; /* Mantém o fundo fixo durante a rolagem */
+
+    /* Define a fonte mística e a cor do texto */
+    font-family: 'Cinzel Decorative', serif;
+    color: #f0f0f0;
+
+    /* Estrutura o layout para controlar a altura do main */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    padding: 1.5rem 2rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente para o header */
+    border-bottom: 1px solid #444;
+}
+
+header h1 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+header div {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+#busca {
+    width: 70%;
+    min-width: 250px;
+    font-family: 'Cinzel Decorative', serif;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #f0f0f0;
+    border: 1px solid #555;
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+#busca::placeholder {
+    color: #ccc;
+}
+
+#botao-busca {
+    font-family: 'Cinzel Decorative', serif;
+    padding: 0.5rem 1rem;
+    background-color: #8a0303;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+main {
+    flex-grow: 1; /* Faz o main ocupar o espaço vertical disponível */
+    overflow-y: auto;
+    /* Adiciona display flex para centralizar o conteúdo */
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+#mensagem-busca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1; /* Faz a mensagem ocupar o espaço disponível em main */
+    font-size: 1.5rem;
+    text-align: center;
+    color: #aaa;
+    padding: 2rem;
+}
+
+.hidden { display: none !important; }
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.card-container :hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px solid #444;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.card h2 {
+    color: #ffc107;
+    margin-bottom: 0.5rem;
+}
+
+.card h3 {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #aaa;
+    margin-bottom: 1rem;
+}
+
+mark {
+    background-color: #ffc107; /* Cor dourada do título */
+    color: #202124; /* Cor de fundo escura para o texto */
+    border-radius: 3px;
+}
+
+.footer {
+    padding: 1rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-top: 1px solid #444;
+}
+
+.footer-links {
+    list-style: none;
+}
+
+.footer-links a {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+/* Esconde as seções de palavras-chave que não parecem fazer parte do layout principal */
+main > section:not(.card-container) {
+    display: none;
+}
+
+/* Estilização da barra de rolagem para o elemento main */
+main::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de rolagem */
+}
+
+main::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.4); /* Fundo da trilha, um pouco mais escuro */
+    border-radius: 10px;
+}
+
+main::-webkit-scrollbar-thumb {
+    background-color: #e0b32a44; /* Cor dourada para a barra */
+    border-radius: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.4); /* Cria uma borda com a cor da trilha */
+}
+
+main::-webkit-scrollbar-thumb:hover {
+    background-color: #ffc107; /* Intensifica a cor dourada ao passar o mouse */
+}
